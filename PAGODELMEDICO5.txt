@@ -1,0 +1,13 @@
+Nombre:   Matias
+Fecha captura:   2026-09-22
+Hora capturada:    14:14:18.450211400
+Año de nacimiento capturado:   2009
+Mes de nacimiento capturado:    9
+Dia de nacimiento capturado:   18
+Edad en años capturada:   17
+Especialidad capturada:   Cardiologo
+Pacientes atendidos:    9
+Sueldo capturado:   2925000.0
+Descuento capturado:    0.0
+Abono capturado:   58500.0
+El sueldo a pagar:   2983500.0
